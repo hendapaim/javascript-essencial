@@ -1,2 +1,2 @@
-# dio-cursos-bootcamp
-Repositórios para a dio contendo todos desafios
+# fundamentos-de-javascript
+Repositórios para code e desafios de javascript
