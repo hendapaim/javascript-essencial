@@ -2,6 +2,7 @@
  _Repositórios para code e desafios de javaScript, um guia para alguns termos usados no desenvolvimento javaScript que podem ajudar a direccionar._
 
 ## Introdução a javaScript
+_JavaScript é uma linguagem de programação usada tanto no lado do cliente quanto no lado do servidor que permite tornar as páginas da Web interativas._
 JavaScript é uma linguagem de programação que é:
 
 - ***Alto nível:*** ele fornece abstrações que permitem ignorar os detalhes da máquina onde ela está funcionando. Ele gerencia a memória automaticamente com um coletor de lixo, para que você possa se concentrar no código em vez de gerenciar locais de memória, e fornece muitas construções que permitem lidar com variáveis e objetos altamente poderosos.
