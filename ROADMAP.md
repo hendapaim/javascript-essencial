@@ -66,7 +66,42 @@ Podemos dividir em 7 partes:
 - Mensageiro
 - Protótipo de eCommerce (Integração API)
 - Todo App (Armazenar dados no navegador)
-- [] GFM task list 3
+
+## 4. Ferramentas / Tools
+- [] TypeScript
+- [] Node, NPM / Yarn
+- [] Webpack or Grunt / Gulp
+- [] Babel
+- [] ESLint
+
+### Desafios
+- Configurar projeto ES6 usando webpack e babel
+
+## 5. Frameworks / Bibliotecas
+- [] React
+- [] Vue
+- [] Angular
+- [] ExpressJS
+
+### Desafios
+- Migrem todos os aplicativos existentes (eCommerce Prototype, Todo App) em todas as tecnologias acima individiualmente.
+
+## 6. Testing (Anyone)
+- [] Jest
+- [] Mocha
+- [] Jasmine
+
+### Desafios
+- Realizar casos de teste para TodoApp
+
+## 7. Segurança
+- [] OWASP
+- [] Synk
+
+### Desafios
+- Correções de segurança para todos os aplicativos existentes
+
+
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
